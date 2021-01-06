@@ -477,7 +477,7 @@ ol {
 	Resume section
 ----------------------*/
 .resume-section.with-bg {
-	background-image: url(../img/bif.jpg);
+	background-image: url(../img/resume-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -530,6 +530,7 @@ ol {
 
 .resume-list p {
 	margin-bottom: 0;
+	color: #40424a;
 }
 
 /*---------------------
