@@ -510,6 +510,7 @@ ol {
 
 .resume-list li:after {
 	position: absolute;
+	color: #40424a;
 	content: '';
 	width: 15px;
 	height: 15px;
